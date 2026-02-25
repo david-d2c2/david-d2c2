@@ -1,2 +1,2 @@
-# david-d2c2.github.io
+# david-d2c2
 Visual portfolio —  Generative AI + Web Design 
