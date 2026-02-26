@@ -74,10 +74,4 @@ Y cuando hace falta, entrego <b>desarrollo web</b> para distribución y conversi
 <b>Múltiples titulaciones/certificaciones en IA generativa</b> (enfoque aplicado y de producción). Detalles a petición.
 </p>
 
-<h3>GitHub</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=david-d2c2&show_icons=true" alt="Estadísticas de GitHub" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=david-d2c2&layout=compact" alt="Lenguajes más usados" />
-</p>
+
