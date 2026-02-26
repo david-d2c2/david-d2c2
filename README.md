@@ -41,13 +41,7 @@ When needed, I deliver <b>web development</b> to support distribution and conver
 <b>Multiple certifications in Generative AI</b> (applied / production-focused). Details available on request.
 </p>
 
-<h3>GitHub</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=david-d2c2&show_icons=true" alt="GitHub stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=david-d2c2&layout=compact" alt="Top languages" />
-</p>
+
 
 <hr/>
 
